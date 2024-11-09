@@ -22,7 +22,7 @@ int main() {
     Point p2(3, 4);
     Point p3(5, 6);
 
-    cout << "Point: " << Point::getCount() << std::endl;
+    cout << "Point: " << Point::getCount() << endl;
 
     return 0;
 }
